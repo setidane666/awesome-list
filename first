@@ -1,0 +1,42 @@
+# Awesome Python
+
+A curated list of awesome Python resources.
+
+## Contents
+
+- Guides
+- Tutorials
+- Tools
+- Books
+- Blogs
+- Podcasts
+
+## Guides
+
+- The Hitchhiker’s Guide to Python - This guide provides both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
+- Python.org Beginner’s Guide - A useful guide for beginners to start learning Python.
+
+## Tutorials
+
+- Real Python - Offers Python tutorials and articles for web development, data science, Python basics, and more.
+- Corey Schafer Python Tutorials - A comprehensive video tutorial series on Python by Corey Schafer.
+
+## Tools
+
+- PyCharm - A Python IDE with complete set of tools for productive development with Python programming language.
+- Jupyter Notebook - An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+
+## Books
+
+- Python Crash Course - A fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time.
+- Automate the Boring Stuff with Python - A practical programming guide for office workers, academics, and administrators who want to improve their productivity.
+
+## Blogs
+
+- Planet Python - A blog that collects various Python-related blogs and articles.
+- Talk Python To Me - A weekly podcast on Python and related technologies.
+
+## Podcasts
+
+- Python Bytes - Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. The show is a short discussion on the headlines and noteworthy news in the Python, developer, and data science space.
+- Test & Code - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
